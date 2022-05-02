@@ -1,0 +1,15 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: QL_simulations_of_annular_pipe_flows
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Chenyu
+    family-names: Zhang
+    email: chenyu_zhang@brown.edu
+    affiliation: Brown University Department of Physics
+    orcid: 'https://orcid.org/0000-0002-3125-1254'
