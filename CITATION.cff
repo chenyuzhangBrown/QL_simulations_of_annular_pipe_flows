@@ -3,6 +3,8 @@
 
 cff-version: 1.2.0
 title: QL_simulations_of_annular_pipe_flows
+url: "https://github.com/github/linguist"
+
 message: >-
   If you use this software, please cite it using the
   metadata from this file.
@@ -13,4 +15,3 @@ authors:
     email: chenyu_zhang@brown.edu
     affiliation: Brown University Department of Physics
     orcid: 'https://orcid.org/0000-0002-3125-1254'
-    url: "https://github.com/github/linguist"
